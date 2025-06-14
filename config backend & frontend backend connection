@@ -1,0 +1,1448 @@
+91637@LAPTOP-DU47RA4C MINGW64 ~
+$ cd ~/Downloads
+chmod 400 ec2-key.pem
+ssh -i ec2-key.pem ubuntu@13.208.215.71
+chmod: cannot access 'ec2-key.pem': No such file or directory
+Warning: Identity file ec2-key.pem not accessible: No such file or directory.
+ubuntu@13.208.215.71: Permission denied (publickey).
+
+91637@LAPTOP-DU47RA4C MINGW64 ~/Downloads
+$ $ cd ~/Downloads
+chmod 400 ec2-key.pem
+ssh -i ec2-key.pem ubuntu@13.208.215.71
+chmod: cannot access 'ec2-key.pem': No such file or directory
+Warning: Identity file ec2-key.pem not accessible: No such file or directory.
+ubuntu@13.208.215.71: Permission denied (publickey).
+ls ~/Downloads/*.pem
+bash: $: command not found
+chmod: cannot access 'ec2-key.pem': No such file or directory
+Warning: Identity file ec2-key.pem not accessible: No such file or directory.
+ubuntu@13.208.215.71: Permission denied (publickey).
+bash: chmod:: command not found
+bash: Warning:: command not found
+bash: syntax error near unexpected token `('
+/c/Users/91637/Downloads/ec2.pem
+
+91637@LAPTOP-DU47RA4C MINGW64 ~/Downloads
+$ /c/Users/91637/Downloads/ec2.pem
+/c/Users/91637/Downloads/ec2.pem: line 1: -----BEGIN: command not found
+/c/Users/91637/Downloads/ec2.pem: line 2: MIIEowIBAAKCAQEAvlVggTWzmDac1iMAUWGEFou2ZaWAvtBk23oWXHKGm7TUfnr5: command not found
+/c/Users/91637/Downloads/ec2.pem: line 3: K+qsRrf1HbKKZAJUS7nZnFEVvvgqYy/UWKjRKiBUvtZ8yc4gEuv93R1c56JD4sy5: No such file or directory
+/c/Users/91637/Downloads/ec2.pem: line 4: oos5iU9zKuSglRmlfnUpZdHq/bsuF4BKJ2KHoF0iPblDQMFGUUXZjvCrS80TH6Tf: No such file or directory
+/c/Users/91637/Downloads/ec2.pem: line 5: dppmnsNXgSmowW1KHKnSaNxQxEXvs2k/ElKfA4ScXPiwnNbBGxFa2XMn2QT6ewsp: No such file or directory
+/c/Users/91637/Downloads/ec2.pem: line 6: q7bsrYpXdqmk4EVH4KoMrXB8fLhdf5pA6KvmGcAdV0q/wtj96Xw38TUC3AflIlA2: No such file or directory
+/c/Users/91637/Downloads/ec2.pem: line 7: u/tsOYiFNy3r+A1xmVxCweCGImdlDV1Zh2ud0wIDAQABAoIBAAwJuFXTwK0i3x6I: No such file or directory
+/c/Users/91637/Downloads/ec2.pem: line 8: DjAXe9Q1N+8L3a2z3n0nJpzoPW1BraLmQjYt3IGIhv8+2JPktdIoSgQh+L8gUQX+: command not found
+/c/Users/91637/Downloads/ec2.pem: line 9: 8248FyaT7ug3BqN43vxzYpYGkmawE50Xl7IZHiV6Ge2fkix798ScwmaHNVag7RRd: command not found
+/c/Users/91637/Downloads/ec2.pem: line 10: b9M33x4cZdsDiaZh0wG26kCpJhxgGyXro7bqGHgEIjpdbL48SsmrBsMZCX6U5xE4: command not found
+/c/Users/91637/Downloads/ec2.pem: line 11: DMKVRGvgi1SgdiE9ot81Bhooxp6BXnUT5HO74XmZXiC/zFf/x2JVcL+A4Ht5gv8o: No such file or directory
+/c/Users/91637/Downloads/ec2.pem: line 12: fi672efaobzWjafGai3981RQ/gaWA/MuvexCtEmF6CaGQuovt8nPtzYu5sc9/u0D: No such file or directory
+/c/Users/91637/Downloads/ec2.pem: line 13: fcxWZuECgYEA31PgQuIya7sW/4Og9Vub6y68f/G1xLdDIKWlgrnhSzFBzgl6I+Zm: No such file or directory
+/c/Users/91637/Downloads/ec2.pem: line 14: wRgoMpiI0cV+/koHUat6tGsybz4EEVPv/vI3VJUPBEz3WKVHiAOzzThe1axODeQw: No such file or directory
+/c/Users/91637/Downloads/ec2.pem: line 15: KinQcXkMfSi0NONCu66XFyyBtAlDaSUtViG3Nd5/UDlQ2Iu6igDhUnECgYEA2i3L: No such file or directory
+/c/Users/91637/Downloads/ec2.pem: line 16: zGkPwu1FT58vM8ImCz7Ye2fI0Z4QO4+Eflwli9Rsup0gYQEPNp4vTH7+LN08bg0s: command not found
+/c/Users/91637/Downloads/ec2.pem: line 17: BH313GQDT6n7qmmN1Z3Mg8l5H/hK9tp6aeNMq6SitdIgLU9eiAEhOaMvmopA0XYp: No such file or directory
+/c/Users/91637/Downloads/ec2.pem: line 18: oyKZWep9ev7zv4HeEhvWJieeaxP22uF2qb0AToMCgYEA3bBFTh98LbTqf3oKrYTi: command not found
+/c/Users/91637/Downloads/ec2.pem: line 19: ofMi617lMQE6gY3tXndmTV34FK8Tr89m8Qcp4A/KwXFrPsH9wfSXOcGvrv3Ay/Km: No such file or directory
+/c/Users/91637/Downloads/ec2.pem: line 20: qk2G30+YOIyufDCVcU87jNwIR9NjKCb8KN6ZLAsdeqCNQnLWK7iEA10K48zOPfHJ: command not found
+/c/Users/91637/Downloads/ec2.pem: line 21: r1aIp9DWUKyUtGEAKz30bgECgYAmlY7DGZll+ZwWVqp8Vstvla+nM1V6bJ+mSN0/: No such file or directory
+/c/Users/91637/Downloads/ec2.pem: line 22: k4A4WFraLct6HDvahuMKfjLpMD7tn3q3WKdQUIedYQxWuNAShROUAt9e3gQz37Ni: command not found
+/c/Users/91637/Downloads/ec2.pem: line 23: YoY+nKEB0qVKHg0ztC9yB//1LpoD8QewCABivGtwgwIMTiU9wpp+qOcFPMSdNN5N: No such file or directory
+/c/Users/91637/Downloads/ec2.pem: line 24: alVRjQKBgG6XuD+vPXefTYm2SO1/oErDrK3Nyna/IN1rAO40/sj5rnU+mElnasg3: No such file or directory
+/c/Users/91637/Downloads/ec2.pem: line 25: tr9vT4Ibx2mGA0MGyAzRxW4KqrzkySgMFr0tB+2zPszEL1JP874RtT4EJL9+5KjG: command not found
+/c/Users/91637/Downloads/ec2.pem: line 26: w0kyDxHaGTZ5dC5KddpdhMpyzwjZeuETfOl11nGRKT1a+lOZxMJ1: command not found
+/c/Users/91637/Downloads/ec2.pem: line 27: -----END: command not found
+
+91637@LAPTOP-DU47RA4C MINGW64 ~/Downloads
+$ cd ~/Downloads
+
+91637@LAPTOP-DU47RA4C MINGW64 ~/Downloads
+$ chmod 400 ec2.pem
+
+91637@LAPTOP-DU47RA4C MINGW64 ~/Downloads
+$ ssh -i ec2.pem ubuntu@13.208.215.71
+Welcome to Ubuntu 22.04.5 LTS (GNU/Linux 6.8.0-1029-aws x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/pro
+
+ System information as of Sat Jun 14 10:51:51 UTC 2025
+
+  System load:  0.0               Processes:             103
+  Usage of /:   33.8% of 7.57GB   Users logged in:       0
+  Memory usage: 27%               IPv4 address for eth0: 172.31.46.113
+  Swap usage:   0%
+
+
+Expanded Security Maintenance for Applications is not enabled.
+
+34 updates can be applied immediately.
+25 of these updates are standard security updates.
+To see these additional updates run: apt list --upgradable
+
+5 additional security updates can be applied with ESM Apps.
+Learn more about enabling ESM Apps service at https://ubuntu.com/esm
+
+New release '24.04.2 LTS' available.
+Run 'do-release-upgrade' to upgrade to it.
+
+
+*** System restart required ***
+Last login: Sat Jun 14 10:45:24 2025 from 157.41.240.235
+ubuntu@ip-172-31-46-113:~$ cd ~
+rm -rf Travelmemoryallocation
+GIT_SSH_COMMAND="ssh -i ~/ec2" git clone git@github.com:Astha0828/Travelmemoryallocation.git
+cd Travelmemoryallocation
+ls
+Cloning into 'Travelmemoryallocation'...
+ERROR: Repository not found.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+-bash: cd: Travelmemoryallocation: No such file or directory
+ec2  ec2.pub  package-lock.json
+ubuntu@ip-172-31-46-113:~$ git@github.com:Astha0828/Travelmemoryallocation.git
+-bash: git@github.com:Astha0828/Travelmemoryallocation.git: No such file or directory
+ubuntu@ip-172-31-46-113:~$ cd ~
+rm -rf Travelmemoryallocation
+
+# Replace with actual repo name
+GIT_SSH_COMMAND="ssh -i ~/ec2" git clone git@github.com:Astha0828/TravelMemory.git
+cd TravelMemory
+ls
+Cloning into 'TravelMemory'...
+remote: Enumerating objects: 119, done.
+remote: Counting objects: 100% (69/69), done.
+remote: Compressing objects: 100% (40/40), done.
+remote: Total 119 (delta 33), reused 29 (delta 29), pack-reused 50 (from 1)
+Receiving objects: 100% (119/119), 198.68 KiB | 400.00 KiB/s, done.
+Resolving deltas: 100% (40/40), done.
+LICENSE  README.md  azure-pipelines.yml  backend  frontend
+ubuntu@ip-172-31-46-113:~/TravelMemory$ npm install
+npm ERR! code ENOENT
+npm ERR! syscall open
+npm ERR! path /home/ubuntu/TravelMemory/package.json
+npm ERR! errno -2
+npm ERR! enoent ENOENT: no such file or directory, open '/home/ubuntu/TravelMemory/package.json'
+npm ERR! enoent This is related to npm not being able to find a file.
+npm ERR! enoent
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2025-06-14T10_58_51_356Z-debug-0.log
+ubuntu@ip-172-31-46-113:~/TravelMemory$ cd backend
+ls
+conn.js  controllers  index.js  models  package-lock.json  package.json  routes
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ npm install
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'bson@5.3.0',
+npm WARN EBADENGINE   required: { node: '>=14.20.1' },
+npm WARN EBADENGINE   current: { node: 'v12.22.9', npm: '8.5.1' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'mongodb@5.5.0',
+npm WARN EBADENGINE   required: { node: '>=14.20.1' },
+npm WARN EBADENGINE   current: { node: 'v12.22.9', npm: '8.5.1' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'mongoose@7.2.4',
+npm WARN EBADENGINE   required: { node: '>=14.20.1' },
+npm WARN EBADENGINE   current: { node: 'v12.22.9', npm: '8.5.1' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'mquery@5.0.0',
+npm WARN EBADENGINE   required: { node: '>=14.0.0' },
+npm WARN EBADENGINE   current: { node: 'v12.22.9', npm: '8.5.1' }
+npm WARN EBADENGINE }
+
+added 117 packages, and audited 118 packages in 6s
+
+13 packages are looking for funding
+  run `npm fund` for details
+
+15 vulnerabilities (4 low, 1 moderate, 9 high, 1 critical)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ node index.js
+/home/ubuntu/TravelMemory/backend/node_modules/mongodb/lib/operations/add_user.js:16
+        this.options = options ?? {};
+                                ^
+
+SyntaxError: Unexpected token '?'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:85:18)
+    at Object.<anonymous> (/home/ubuntu/TravelMemory/backend/node_modules/mongodb/lib/admin.js:4:20)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ npm install -g pm2
+pm2 start index.js --name backend
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'pm2@6.0.8',
+npm WARN EBADENGINE   required: { node: '>=16.0.0' },
+npm WARN EBADENGINE   current: { node: 'v12.22.9', npm: '8.5.1' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'proxy-agent@6.4.0',
+npm WARN EBADENGINE   required: { node: '>= 14' },
+npm WARN EBADENGINE   current: { node: 'v12.22.9', npm: '8.5.1' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'agent-base@7.1.3',
+npm WARN EBADENGINE   required: { node: '>= 14' },
+npm WARN EBADENGINE   current: { node: 'v12.22.9', npm: '8.5.1' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'http-proxy-agent@7.0.2',
+npm WARN EBADENGINE   required: { node: '>= 14' },
+npm WARN EBADENGINE   current: { node: 'v12.22.9', npm: '8.5.1' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'https-proxy-agent@7.0.6',
+npm WARN EBADENGINE   required: { node: '>= 14' },
+npm WARN EBADENGINE   current: { node: 'v12.22.9', npm: '8.5.1' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'pac-proxy-agent@7.2.0',
+npm WARN EBADENGINE   required: { node: '>= 14' },
+npm WARN EBADENGINE   current: { node: 'v12.22.9', npm: '8.5.1' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'socks-proxy-agent@8.0.5',
+npm WARN EBADENGINE   required: { node: '>= 14' },
+npm WARN EBADENGINE   current: { node: 'v12.22.9', npm: '8.5.1' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'get-uri@6.0.4',
+npm WARN EBADENGINE   required: { node: '>= 14' },
+npm WARN EBADENGINE   current: { node: 'v12.22.9', npm: '8.5.1' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'pac-resolver@7.0.1',
+npm WARN EBADENGINE   required: { node: '>= 14' },
+npm WARN EBADENGINE   current: { node: 'v12.22.9', npm: '8.5.1' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'data-uri-to-buffer@6.0.2',
+npm WARN EBADENGINE   required: { node: '>= 14' },
+npm WARN EBADENGINE   current: { node: 'v12.22.9', npm: '8.5.1' }
+npm WARN EBADENGINE }
+npm WARN EBADENGINE Unsupported engine {
+npm WARN EBADENGINE   package: 'degenerator@5.0.1',
+npm WARN EBADENGINE   required: { node: '>= 14' },
+npm WARN EBADENGINE   current: { node: 'v12.22.9', npm: '8.5.1' }
+npm WARN EBADENGINE }
+npm ERR! code EACCES
+npm ERR! syscall mkdir
+npm ERR! path /usr/local/lib/node_modules
+npm ERR! errno -13
+npm ERR! Error: EACCES: permission denied, mkdir '/usr/local/lib/node_modules'
+npm ERR!  [Error: EACCES: permission denied, mkdir '/usr/local/lib/node_modules'] {
+npm ERR!   errno: -13,
+npm ERR!   code: 'EACCES',
+npm ERR!   syscall: 'mkdir',
+npm ERR!   path: '/usr/local/lib/node_modules'
+npm ERR! }
+npm ERR!
+npm ERR! The operation was rejected by your operating system.
+npm ERR! It is likely you do not have the permissions to access this file as the current user
+npm ERR!
+npm ERR! If you believe this might be a permissions issue, please double-check the
+npm ERR! permissions of the file and its containing directories, or try running
+npm ERR! the command again as root/Administrator.
+
+npm ERR! A complete log of this run can be found in:
+npm ERR!     /home/ubuntu/.npm/_logs/2025-06-14T11_01_17_083Z-debug-0.log
+Command 'pm2' not found, did you mean:
+  command 'pmw' from deb pmw (1:4.50-1)
+  command 'wm2' from deb wm2 (4+svn20090216-4build1)
+  command 'pms' from deb pms (0.42-1build4)
+  command 'pm' from deb powerman (2.3.5-1build2)
+  command 'pmc' from deb linuxptp (3.1.1-3)
+  command 'tpm2' from deb tpm2-tools (5.2-1build1)
+  command 'gm2' from deb gm2 (4:11.2.0-1ubuntu1)
+  command 'pom2' from deb libpod-pom-perl (2.01-3)
+  command 'pmg' from deb python3-pymatgen (2022.0.17+dfsg1-1build1)
+  command 'pmi' from deb powermanagement-interface (0.3.21)
+Try: sudo apt install <deb name>
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ sudo apt remove nodejs npm -y
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following packages were automatically installed and are no longer required:
+  adwaita-icon-theme at-spi2-core dconf-gsettings-backend dconf-service fontconfig gsettings-desktop-schemas gtk-update-icon-cache gyp hicolor-icon-theme
+  humanity-icon-theme javascript-common libatk-bridge2.0-0 libatk1.0-0 libatk1.0-data libatspi2.0-0 libauthen-sasl-perl libavahi-client3 libavahi-common-data
+  libavahi-common3 libc-ares2 libcairo-gobject2 libcairo2 libclone-perl libcolord2 libcups2 libdata-dump-perl libdatrie1 libdconf1 libdrm-amdgpu1 libdrm-intel1
+  libdrm-nouveau2 libdrm-radeon1 libencode-locale-perl libepoxy0 libfile-basedir-perl libfile-desktopentry-perl libfile-listing-perl libfile-mimeinfo-perl
+  libfont-afm-perl libfontenc1 libgl1 libgl1-amber-dri libgl1-mesa-dri libglapi-mesa libglvnd0 libglx-mesa0 libglx0 libgraphite2-3 libgtk-3-0 libgtk-3-bin libgtk-3-common
+  libgtkd-3-0 libharfbuzz0b libhtml-form-perl libhtml-format-perl libhtml-parser-perl libhtml-tagset-perl libhtml-tree-perl libhttp-cookies-perl libhttp-daemon-perl
+  libhttp-date-perl libhttp-message-perl libhttp-negotiate-perl libice6 libio-html-perl libio-socket-ssl-perl libio-stringy-perl libipc-system-simple-perl libjs-events
+  libjs-highlight.js libjs-inherits libjs-is-typedarray libjs-psl libjs-source-map libjs-sprintf-js libjs-typedarray-to-buffer liblcms2-2 libllvm11 libllvm15
+  liblwp-mediatypes-perl liblwp-protocol-https-perl libmailtools-perl libnet-dbus-perl libnet-http-perl libnet-smtp-ssl-perl libnet-ssleay-perl libnode-dev libnode72
+  libpango-1.0-0 libpangocairo-1.0-0 libpangoft2-1.0-0 libpciaccess0 libphobos2-ldc-shared98 libpixman-1-0 librsvg2-2 librsvg2-common libsensors-config libsensors5 libsm6
+  libssl-dev libthai-data libthai0 libtie-ixhash-perl libtimedate-perl libtry-tiny-perl liburi-perl libuv1-dev libvte-2.91-0 libvte-2.91-common libvted-3-0
+  libwayland-client0 libwayland-cursor0 libwayland-egl1 libwww-perl libwww-robotrules-perl libx11-protocol-perl libx11-xcb1 libxaw7 libxcb-dri2-0 libxcb-dri3-0
+  libxcb-glx0 libxcb-present0 libxcb-randr0 libxcb-render0 libxcb-shape0 libxcb-shm0 libxcb-sync1 libxcb-xfixes0 libxcomposite1 libxcursor1 libxdamage1 libxfixes3 libxft2
+  libxi6 libxinerama1 libxkbcommon0 libxkbfile1 libxml-parser-perl libxml-twig-perl libxml-xpathengine-perl libxmu6 libxrandr2 libxrender1 libxshmfence1 libxt6 libxtst6
+  libxv1 libxxf86dga1 libxxf86vm1 node-abbrev node-ansi-regex node-ansi-styles node-ansistyles node-are-we-there-yet node-arrify node-asap node-asynckit
+  node-balanced-match node-brace-expansion node-chownr node-clean-yaml-object node-color-convert node-color-name node-commander node-core-util-is node-decompress-response
+  node-delayed-stream node-delegates node-depd node-diff node-encoding node-end-of-stream node-err-code node-escape-string-regexp node-fancy-log node-foreground-child
+  node-fs.realpath node-function-bind node-get-stream node-glob node-growl node-has-flag node-has-unicode node-hosted-git-info node-iconv-lite node-iferr node-imurmurhash
+  node-indent-string node-inflight node-inherits node-ini node-ip node-ip-regex node-is-buffer node-is-plain-obj node-is-typedarray node-isarray node-isexe
+  node-json-parse-better-errors node-jsonparse node-kind-of node-lodash-packages node-lowercase-keys node-lru-cache node-mimic-response node-minimatch node-minimist
+  node-minipass node-mute-stream node-negotiator node-npm-bundled node-once node-osenv node-p-cancelable node-p-map node-path-is-absolute node-process-nextick-args
+  node-promise-inflight node-promise-retry node-promzard node-pump node-quick-lru node-read node-readable-stream node-resolve node-retry node-safe-buffer
+  node-set-blocking node-signal-exit node-slash node-slice-ansi node-source-map node-spdx-correct node-spdx-exceptions node-spdx-expression-parse node-spdx-license-ids
+  node-sprintf-js node-stealthy-require node-string-decoder node-supports-color node-text-table node-time-stamp node-tmatch node-typedarray-to-buffer node-universalify
+  node-util-deprecate node-validate-npm-package-license node-webidl-conversions node-whatwg-fetch node-wrappy node-yallist nodejs-doc perl-openssl-defaults
+  session-migration tilix tilix-common ubuntu-mono x11-common x11-utils x11-xserver-utils xdg-utils
+Use 'sudo apt autoremove' to remove them.
+The following packages will be REMOVED:
+  node-abab node-agent-base node-aproba node-archy node-argparse node-builtins node-cacache node-chalk node-cli-table node-clone node-colors node-columnify
+  node-combined-stream node-console-control-strings node-copy-concurrently node-coveralls node-cssom node-cssstyle node-debug node-defaults node-esprima node-events
+  node-fetch node-form-data node-fs-write-stream-atomic node-gauge node-got node-graceful-fs node-gyp node-https-proxy-agent node-js-yaml node-jsdom node-json-buffer
+  node-lcov-parse node-log-driver node-mime node-mime-types node-mkdirp node-move-concurrently node-ms node-nopt node-normalize-package-data node-npm-package-arg
+  node-npmlog node-object-assign node-opener node-psl node-punycode node-read-package-json node-rimraf node-run-queue node-semver node-source-map-support node-ssri
+  node-stack-utils node-string-width node-strip-ansi node-tap node-tap-mocha-reporter node-tap-parser node-tar node-tough-cookie node-unique-filename
+  node-validate-npm-package-name node-wcwidth.js node-which node-wide-align node-write-file-atomic node-ws nodejs npm
+0 upgraded, 0 newly installed, 71 to remove and 34 not upgraded.
+After this operation, 14.0 MB disk space will be freed.
+(Reading database ... 95093 files and directories currently installed.)
+Removing node-coveralls (3.1.1-1) ...
+Removing node-fetch (2.6.7+~2.5.12-1) ...
+Removing node-jsdom (19.0.0+~cs90.11.27-1) ...
+Removing node-abab (2.0.5-2) ...
+Removing npm (8.5.1~ds-1) ...
+Removing node-ws (8.5.0+~cs13.3.3-2) ...
+Removing node-https-proxy-agent (5.0.0+~cs8.0.0-3) ...
+Removing node-agent-base (6.0.2+~cs5.4.2-1) ...
+Removing node-cacache (15.0.5+~cs13.9.21-3) ...
+Removing node-move-concurrently (1.0.1-4) ...
+Removing node-copy-concurrently (1.0.5-8) ...
+Removing node-run-queue (2.0.0-2) ...
+Removing node-archy (1.0.0-4) ...
+Removing node-tap (12.0.1+ds-4) ...
+Removing node-tap-mocha-reporter (3.0.7+ds-2) ...
+Removing node-tap-parser (7.0.0+ds1-6) ...
+Removing node-js-yaml (4.1.0+dfsg+~4.0.5-6) ...
+Removing node-argparse (2.0.1-2) ...
+Removing node-npm-package-arg (8.1.5-1) ...
+Removing node-validate-npm-package-name (3.0.0-4) ...
+Removing node-builtins (4.0.0-1) ...
+Removing node-chalk (4.1.2-1) ...
+Removing node-cli-table (0.3.11+~cs0.13.3-1) ...
+Removing node-columnify (1.5.4+~1.5.1-1) ...
+Removing node-gyp (8.4.1-1) ...
+Removing node-npmlog (6.0.1+~4.1.4-1) ...
+Removing node-gauge (4.0.2-1) ...
+Removing node-wide-align (1.1.3-4) ...
+Removing node-string-width (4.2.3+~cs13.2.3-1) ...
+Removing node-wcwidth.js (1.0.2-1) ...
+Removing node-defaults (1.0.3+~1.0.3-1) ...
+Removing node-clone (2.1.2-3) ...
+Removing node-colors (1.4.0-3) ...
+Removing node-form-data (3.0.1-1) ...
+Removing node-combined-stream (1.0.8+~1.0.3-1) ...
+Removing node-console-control-strings (1.1.0-2) ...
+Removing node-cssstyle (2.3.0-2) ...
+Removing node-cssom (0.4.4-3) ...
+Removing node-debug (4.3.2+~cs4.1.7-1) ...
+Removing node-esprima (4.0.1+ds+~4.0.3-2) ...
+Removing node-events (3.3.0+~3.0.0-2) ...
+Removing node-fs-write-stream-atomic (1.0.10-5) ...
+Removing node-got (11.8.3+~cs58.7.37-1) ...
+Removing node-graceful-fs (4.2.4+repack-1) ...
+Removing node-json-buffer (3.0.1-1) ...
+Removing node-lcov-parse (1.0.0+20170612git80d039574ed9-5) ...
+Removing node-log-driver (1.2.7+git+20180219+bba1761737-7) ...
+Removing node-mime-types (2.1.33-1) ...
+Removing node-mime (3.0.0+dfsg+~cs3.96.1-1) ...
+Removing node-tar (6.1.11+ds1+~cs6.0.6-1) ...
+Removing node-mkdirp (1.0.4+~1.0.2-1) ...
+Removing node-ms (2.1.3+~cs0.7.31-2) ...
+Removing node-nopt (5.0.0-2) ...
+Removing node-read-package-json (4.1.1-1) ...
+Removing node-normalize-package-data (3.0.3+~2.4.1-1) ...
+Removing node-object-assign (4.1.1-6) ...
+Removing node-opener (1.5.2+~1.4.0-1) ...
+Removing node-tough-cookie (4.0.0-2) ...
+Removing node-psl (1.8.0+ds-6) ...
+Removing node-punycode (2.1.1-5) ...
+Removing node-rimraf (3.0.2-1) ...
+Removing node-semver (7.3.5+~7.3.8-1) ...
+Removing node-source-map-support (0.5.21+ds+~0.5.4-1) ...
+Removing node-ssri (8.0.1-2) ...
+Removing node-stack-utils (2.0.5+~2.0.1-1) ...
+Removing node-strip-ansi (6.0.1-1) ...
+Removing node-unique-filename (1.1.1+ds-1) ...
+Removing node-which (2.0.2+~cs1.3.2-2) ...
+Removing node-write-file-atomic (3.0.3+~3.0.2-1) ...
+Removing node-aproba (2.0.0-2) ...
+Removing nodejs (12.22.9~dfsg-1ubuntu3.6) ...
+Processing triggers for man-db (2.10.2-1) ...
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 16555  100 16555    0     0   176k      0 --:--:-- --:--:-- --:--:--  177k
+=> Downloading nvm from git to '/home/ubuntu/.nvm'
+=> Cloning into '/home/ubuntu/.nvm'...
+remote: Enumerating objects: 382, done.
+remote: Counting objects: 100% (382/382), done.
+remote: Compressing objects: 100% (325/325), done.
+remote: Total 382 (delta 43), reused 179 (delta 29), pack-reused 0 (from 0)
+Receiving objects: 100% (382/382), 385.06 KiB | 6.21 MiB/s, done.
+Resolving deltas: 100% (43/43), done.
+* (HEAD detached at FETCH_HEAD)
+  master
+=> Compressing and cleaning up git repository
+
+=> Appending nvm source string to /home/ubuntu/.bashrc
+=> Appending bash_completion source string to /home/ubuntu/.bashrc
+=> Close and reopen your terminal to start using nvm or run the following to use it now:
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ export NVM_DIR="$HOME/.nvm"
+source "$NVM_DIR/nvm.sh"
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ nvm install 18
+nvm use 18
+Downloading and installing node v18.20.8...
+Downloading https://nodejs.org/dist/v18.20.8/node-v18.20.8-linux-x64.tar.xz...
+##################################################################################################################################################################### 100.0%
+Computing checksum with sha256sum
+Checksums matched!
+Now using node v18.20.8 (npm v10.8.2)
+Creating default alias: default -> 18 (-> v18.20.8)
+Now using node v18.20.8 (npm v10.8.2)
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ cd ~/TravelMemory/backend
+rm -rf node_modules package-lock.json
+npm install
+
+added 129 packages, and audited 130 packages in 15s
+
+20 packages are looking for funding
+  run `npm fund` for details
+
+3 high severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ npm install -g pm2
+pm2 start index.js --name backend
+
+added 135 packages in 11s
+
+13 packages are looking for funding
+  run `npm fund` for details
+
+                        -------------
+
+__/\\\\\\\\\\\\\____/\\\\____________/\\\\____/\\\\\\\\\_____
+ _\/\\\/////////\\\_\/\\\\\\________/\\\\\\__/\\\///////\\\___
+  _\/\\\_______\/\\\_\/\\\//\\\____/\\\//\\\_\///______\//\\\__
+   _\/\\\\\\\\\\\\\/__\/\\\\///\\\/\\\/_\/\\\___________/\\\/___
+    _\/\\\/////////____\/\\\__\///\\\/___\/\\\________/\\\//_____
+     _\/\\\_____________\/\\\____\///_____\/\\\_____/\\\//________
+      _\/\\\_____________\/\\\_____________\/\\\___/\\\/___________
+       _\/\\\_____________\/\\\_____________\/\\\__/\\\\\\\\\\\\\\\_
+        _\///______________\///______________\///__\///////////////__
+
+
+                          Runtime Edition
+
+        PM2 is a Production Process Manager for Node.js applications
+                     with a built-in Load Balancer.
+
+                Start and Daemonize any application:
+                $ pm2 start app.js
+
+                Load Balance 4 instances of api.js:
+                $ pm2 start api.js -i 4
+
+                Monitor in production:
+                $ pm2 monitor
+
+                Make pm2 auto-boot at server restart:
+                $ pm2 startup
+
+                To go further checkout:
+                http://pm2.io/
+
+
+                        -------------
+
+[PM2] Spawning PM2 daemon with pm2_home=/home/ubuntu/.pm2
+[PM2] PM2 Successfully daemonized
+[PM2] Starting /home/ubuntu/TravelMemory/backend/index.js in fork_mode (1 instance)
+[PM2] Done.
+┌────┬────────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id │ name       │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├────┼────────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 0  │ backend    │ default     │ 1.0.0   │ fork    │ 7336     │ 0s     │ 0    │ online    │ 0%       │ 33.6mb   │ ubuntu   │ disabled │
+└────┴────────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ sudo apt remove nodejs npm -y
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+Package 'npm' is not installed, so not removed
+Package 'nodejs' is not installed, so not removed
+The following packages were automatically installed and are no longer required:
+  adwaita-icon-theme at-spi2-core dconf-gsettings-backend dconf-service fontconfig gsettings-desktop-schemas gtk-update-icon-cache gyp hicolor-icon-theme
+  humanity-icon-theme javascript-common libatk-bridge2.0-0 libatk1.0-0 libatk1.0-data libatspi2.0-0 libauthen-sasl-perl libavahi-client3 libavahi-common-data
+  libavahi-common3 libc-ares2 libcairo-gobject2 libcairo2 libclone-perl libcolord2 libcups2 libdata-dump-perl libdatrie1 libdconf1 libdrm-amdgpu1 libdrm-intel1
+  libdrm-nouveau2 libdrm-radeon1 libencode-locale-perl libepoxy0 libfile-basedir-perl libfile-desktopentry-perl libfile-listing-perl libfile-mimeinfo-perl
+  libfont-afm-perl libfontenc1 libgl1 libgl1-amber-dri libgl1-mesa-dri libglapi-mesa libglvnd0 libglx-mesa0 libglx0 libgraphite2-3 libgtk-3-0 libgtk-3-bin libgtk-3-common
+  libgtkd-3-0 libharfbuzz0b libhtml-form-perl libhtml-format-perl libhtml-parser-perl libhtml-tagset-perl libhtml-tree-perl libhttp-cookies-perl libhttp-daemon-perl
+  libhttp-date-perl libhttp-message-perl libhttp-negotiate-perl libice6 libio-html-perl libio-socket-ssl-perl libio-stringy-perl libipc-system-simple-perl libjs-events
+  libjs-highlight.js libjs-inherits libjs-is-typedarray libjs-psl libjs-source-map libjs-sprintf-js libjs-typedarray-to-buffer liblcms2-2 libllvm11 libllvm15
+  liblwp-mediatypes-perl liblwp-protocol-https-perl libmailtools-perl libnet-dbus-perl libnet-http-perl libnet-smtp-ssl-perl libnet-ssleay-perl libnode-dev libnode72
+  libpango-1.0-0 libpangocairo-1.0-0 libpangoft2-1.0-0 libpciaccess0 libphobos2-ldc-shared98 libpixman-1-0 librsvg2-2 librsvg2-common libsensors-config libsensors5 libsm6
+  libssl-dev libthai-data libthai0 libtie-ixhash-perl libtimedate-perl libtry-tiny-perl liburi-perl libuv1-dev libvte-2.91-0 libvte-2.91-common libvted-3-0
+  libwayland-client0 libwayland-cursor0 libwayland-egl1 libwww-perl libwww-robotrules-perl libx11-protocol-perl libx11-xcb1 libxaw7 libxcb-dri2-0 libxcb-dri3-0
+  libxcb-glx0 libxcb-present0 libxcb-randr0 libxcb-render0 libxcb-shape0 libxcb-shm0 libxcb-sync1 libxcb-xfixes0 libxcomposite1 libxcursor1 libxdamage1 libxfixes3 libxft2
+  libxi6 libxinerama1 libxkbcommon0 libxkbfile1 libxml-parser-perl libxml-twig-perl libxml-xpathengine-perl libxmu6 libxrandr2 libxrender1 libxshmfence1 libxt6 libxtst6
+  libxv1 libxxf86dga1 libxxf86vm1 node-abbrev node-ansi-regex node-ansi-styles node-ansistyles node-are-we-there-yet node-arrify node-asap node-asynckit
+  node-balanced-match node-brace-expansion node-chownr node-clean-yaml-object node-color-convert node-color-name node-commander node-core-util-is node-decompress-response
+  node-delayed-stream node-delegates node-depd node-diff node-encoding node-end-of-stream node-err-code node-escape-string-regexp node-fancy-log node-foreground-child
+  node-fs.realpath node-function-bind node-get-stream node-glob node-growl node-has-flag node-has-unicode node-hosted-git-info node-iconv-lite node-iferr node-imurmurhash
+  node-indent-string node-inflight node-inherits node-ini node-ip node-ip-regex node-is-buffer node-is-plain-obj node-is-typedarray node-isarray node-isexe
+  node-json-parse-better-errors node-jsonparse node-kind-of node-lodash-packages node-lowercase-keys node-lru-cache node-mimic-response node-minimatch node-minimist
+  node-minipass node-mute-stream node-negotiator node-npm-bundled node-once node-osenv node-p-cancelable node-p-map node-path-is-absolute node-process-nextick-args
+  node-promise-inflight node-promise-retry node-promzard node-pump node-quick-lru node-read node-readable-stream node-resolve node-retry node-safe-buffer
+  node-set-blocking node-signal-exit node-slash node-slice-ansi node-source-map node-spdx-correct node-spdx-exceptions node-spdx-expression-parse node-spdx-license-ids
+  node-sprintf-js node-stealthy-require node-string-decoder node-supports-color node-text-table node-time-stamp node-tmatch node-typedarray-to-buffer node-universalify
+  node-util-deprecate node-validate-npm-package-license node-webidl-conversions node-whatwg-fetch node-wrappy node-yallist nodejs-doc perl-openssl-defaults
+  session-migration tilix tilix-common ubuntu-mono x11-common x11-utils x11-xserver-utils xdg-utils
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 34 not upgraded.
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+100 16555  100 16555    0     0   162k      0 --:--:-- --:--:-- --:--:--  163k
+=> nvm is already installed in /home/ubuntu/.nvm, trying to update using git
+=> => Compressing and cleaning up git repository
+
+=> nvm source string already in /home/ubuntu/.bashrc
+=> bash_completion source string already in /home/ubuntu/.bashrc
+=> Close and reopen your terminal to start using nvm or run the following to use it now:
+
+export NVM_DIR="$HOME/.nvm"
+[ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ export NVM_DIR="$HOME/.nvm"
+source "$NVM_DIR/nvm.sh"
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ nvm install 18
+nvm use 18
+v18.20.8 is already installed.
+Now using node v18.20.8 (npm v10.8.2)
+Now using node v18.20.8 (npm v10.8.2)
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ cd ~/TravelMemory/backend
+rm -rf node_modules package-lock.json
+npm install
+
+added 129 packages, and audited 130 packages in 5s
+
+20 packages are looking for funding
+  run `npm fund` for details
+
+3 high severity vulnerabilities
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ npm install -g pm2
+pm2 start index.js --name backend
+
+changed 135 packages in 5s
+
+13 packages are looking for funding
+  run `npm fund` for details
+[PM2][ERROR] Script already launched, add -f option to force re-execution
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ nano .env
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ npm start
+npm error Missing script: "start"
+npm error
+npm error Did you mean one of these?
+npm error   npm star # Mark your favorite packages
+npm error   npm stars # View packages marked as favorites
+npm error
+npm error To see a list of scripts, run:
+npm error   npm run
+npm error A complete log of this run can be found in: /home/ubuntu/.npm/_logs/2025-06-14T11_12_44_895Z-debug-0.log
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ Server running on port 5000
+Connected to MongoDB...
+Server: command not found
+Connected: command not found
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ nano package.json
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ npm start
+npm error code EJSONPARSE
+npm error JSON.parse Invalid package.json: JSONParseError: Unexpected string in JSON at position 145 while parsing near "...de index.js\"\n}\n\n    \"test\": \"echo \\\"Erro..."
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: /home/ubuntu/.npm/_logs/2025-06-14T11_16_06_359Z-debug-0.log
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ pm2 restart backend
+Use --update-env to update environment variables
+[PM2] Applying action restartProcessId on app [backend](ids: [ 0 ])
+[PM2] [backend](0) ✓
+┌────┬────────────┬─────────────┬─────────┬─────────┬──────────┬────────┬──────┬───────────┬──────────┬──────────┬──────────┬──────────┐
+│ id │ name       │ namespace   │ version │ mode    │ pid      │ uptime │ ↺    │ status    │ cpu      │ mem      │ user     │ watching │
+├────┼────────────┼─────────────┼─────────┼─────────┼──────────┼────────┼──────┼───────────┼──────────┼──────────┼──────────┼──────────┤
+│ 0  │ backend    │ default     │ N/A     │ fork    │ 8215     │ 0s     │ 1    │ online    │ 0%       │ 22.9mb   │ ubuntu   │ disabled │
+└────┴────────────┴─────────────┴─────────┴─────────┴──────────┴────────┴──────┴───────────┴──────────┴──────────┴──────────┴──────────┘
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ npm start
+npm error code EJSONPARSE
+npm error JSON.parse Invalid package.json: JSONParseError: Unexpected string in JSON at position 145 while parsing near "...de index.js\"\n}\n\n    \"test\": \"echo \\\"Erro..."
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: /home/ubuntu/.npm/_logs/2025-06-14T11_17_13_736Z-debug-0.log
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ nano package.json
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ npm start
+
+> backend@1.0.0 start
+> node index.js
+
+Server started at http://localhost:5000
+DB ERROR:  MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (/home/ubuntu/TravelMemory/backend/node_modules/mongodb-connection-string-url/lib/index.js:86:19)
+    at parseOptions (/home/ubuntu/TravelMemory/backend/node_modules/mongodb/lib/connection_string.js:191:17)
+    at new MongoClient (/home/ubuntu/TravelMemory/backend/node_modules/mongodb/lib/mongo_client.js:48:63)
+    at NativeConnection.createClient (/home/ubuntu/TravelMemory/backend/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:288:14)
+    at NativeConnection.openUri (/home/ubuntu/TravelMemory/backend/node_modules/mongoose/lib/connection.js:766:34)
+    at Mongoose.connect (/home/ubuntu/TravelMemory/backend/node_modules/mongoose/lib/index.js:416:15)
+    at Object.<anonymous> (/home/ubuntu/TravelMemory/backend/conn.js:4:10)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+node:internal/process/promises:288
+            triggerUncaughtException(err, true /* fromPromise */);
+            ^
+
+MongoParseError: Invalid scheme, expected connection string to start with "mongodb://" or "mongodb+srv://"
+    at new ConnectionString (/home/ubuntu/TravelMemory/backend/node_modules/mongodb-connection-string-url/lib/index.js:86:19)
+    at parseOptions (/home/ubuntu/TravelMemory/backend/node_modules/mongodb/lib/connection_string.js:191:17)
+    at new MongoClient (/home/ubuntu/TravelMemory/backend/node_modules/mongodb/lib/mongo_client.js:48:63)
+    at NativeConnection.createClient (/home/ubuntu/TravelMemory/backend/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:288:14)
+    at NativeConnection.openUri (/home/ubuntu/TravelMemory/backend/node_modules/mongoose/lib/connection.js:766:34)
+    at Mongoose.connect (/home/ubuntu/TravelMemory/backend/node_modules/mongoose/lib/index.js:416:15)
+    at Object.<anonymous> (/home/ubuntu/TravelMemory/backend/conn.js:4:10)
+    at Module._compile (node:internal/modules/cjs/loader:1364:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1422:10)
+    at Module.load (node:internal/modules/cjs/loader:1203:32)
+
+Node.js v18.20.8
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ nano .env
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ npm start
+
+> backend@1.0.0 start
+> node index.js
+
+Server started at http://localhost:5000
+DB ERROR:  MongoServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+    at Timeout._onTimeout (/home/ubuntu/TravelMemory/backend/node_modules/mongodb/lib/sdam/topology.js:278:38)
+    at listOnTimeout (node:internal/timers:569:17)
+    at process.processTimers (node:internal/timers:512:7) {
+  reason: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) { 'localhost:27017' => [ServerDescription] },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined,
+  [Symbol(errorLabels)]: Set(0) {}
+}
+/home/ubuntu/TravelMemory/backend/node_modules/mongoose/lib/connection.js:816
+    err = new ServerSelectionError();
+          ^
+
+MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+    at _handleConnectionErrors (/home/ubuntu/TravelMemory/backend/node_modules/mongoose/lib/connection.js:816:11)
+    at NativeConnection.openUri (/home/ubuntu/TravelMemory/backend/node_modules/mongoose/lib/connection.js:791:11) {
+  reason: TopologyDescription {
+    type: 'Unknown',
+    servers: Map(1) {
+      'localhost:27017' => ServerDescription {
+        address: 'localhost:27017',
+        type: 'Unknown',
+        hosts: [],
+        passives: [],
+        arbiters: [],
+        tags: {},
+        minWireVersion: 0,
+        maxWireVersion: 0,
+        roundTripTime: -1,
+        lastUpdateTime: 7009517,
+        lastWriteDate: 0,
+        error: MongoNetworkError: connect ECONNREFUSED 127.0.0.1:27017
+            at connectionFailureError (/home/ubuntu/TravelMemory/backend/node_modules/mongodb/lib/cmap/connect.js:367:20)
+            at Socket.<anonymous> (/home/ubuntu/TravelMemory/backend/node_modules/mongodb/lib/cmap/connect.js:290:22)
+            at Object.onceWrapper (node:events:632:26)
+            at Socket.emit (node:events:517:28)
+            at emitErrorNT (node:internal/streams/destroy:151:8)
+            at emitErrorCloseNT (node:internal/streams/destroy:116:3)
+            at process.processTicksAndRejections (node:internal/process/task_queues:82:21) {
+          cause: Error: connect ECONNREFUSED 127.0.0.1:27017
+              at TCPConnectWrap.afterConnect [as oncomplete] (node:net:1555:16) {
+            errno: -111,
+            code: 'ECONNREFUSED',
+            syscall: 'connect',
+            address: '127.0.0.1',
+            port: 27017
+          },
+          [Symbol(errorLabels)]: Set(1) { 'ResetPool' }
+        },
+        topologyVersion: null,
+        setName: null,
+        setVersion: null,
+        electionId: null,
+        logicalSessionTimeoutMinutes: null,
+        primary: null,
+        me: null,
+        '$clusterTime': null
+      }
+    },
+    stale: false,
+    compatible: true,
+    heartbeatFrequencyMS: 10000,
+    localThresholdMS: 15,
+    setName: null,
+    maxElectionId: null,
+    maxSetVersion: null,
+    commonWireVersion: 0,
+    logicalSessionTimeoutMinutes: null
+  },
+  code: undefined
+}
+
+Node.js v18.20.8
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ nano .env
+ubuntu@ip-172-31-46-113:~/TravelMemory/backend$ cd ~
+git clone https://github.com/Astha0828/Travelmemoryallocation-Frontend.git
+cd Travelmemoryallocation-Frontend
+npm install
+Cloning into 'Travelmemoryallocation-Frontend'...
+Username for 'https://github.com': Astha0828
+Password for 'https://Astha0828@github.com':
+remote: Invalid username or password.
+fatal: Authentication failed for 'https://github.com/Astha0828/Travelmemoryallocation-Frontend.git/'
+-bash: cd: Travelmemoryallocation-Frontend: No such file or directory
+npm error code ENOENT
+npm error syscall open
+npm error path /home/ubuntu/package.json
+npm error errno -2
+npm error enoent Could not read package.json: Error: ENOENT: no such file or directory, open '/home/ubuntu/package.json'
+npm error enoent This is related to npm not being able to find a file.
+npm error enoent
+npm error A complete log of this run can be found in: /home/ubuntu/.npm/_logs/2025-06-14T11_30_37_442Z-debug-0.log
+ubuntu@ip-172-31-46-113:~$ cd ~
+GIT_SSH_COMMAND="ssh -i ~/ec2" git clone git@github.com:Astha0828/Travelmemoryallocation-Frontend.git
+cd Travelmemoryallocation-Frontend
+npm install
+Cloning into 'Travelmemoryallocation-Frontend'...
+ERROR: Repository not found.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+-bash: cd: Travelmemoryallocation-Frontend: No such file or directory
+npm error code ENOENT
+npm error syscall open
+npm error path /home/ubuntu/package.json
+npm error errno -2
+npm error enoent Could not read package.json: Error: ENOENT: no such file or directory, open '/home/ubuntu/package.json'
+npm error enoent This is related to npm not being able to find a file.
+npm error enoent
+npm error A complete log of this run can be found in: /home/ubuntu/.npm/_logs/2025-06-14T11_31_35_587Z-debug-0.log
+ubuntu@ip-172-31-46-113:~$ cd ~
+rm -rf Travelmemoryallocation-Frontend
+GIT_SSH_COMMAND="ssh -i ~/ec2" git clone git@github.com:Astha0828/Travelmemoryallocation-Frontend.git
+cd Travelmemoryallocation-Frontend
+npm install
+Cloning into 'Travelmemoryallocation-Frontend'...
+ERROR: Repository not found.
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+-bash: cd: Travelmemoryallocation-Frontend: No such file or directory
+npm error code ENOENT
+npm error syscall open
+npm error path /home/ubuntu/package.json
+npm error errno -2
+npm error enoent Could not read package.json: Error: ENOENT: no such file or directory, open '/home/ubuntu/package.json'
+npm error enoent This is related to npm not being able to find a file.
+npm error enoent
+npm error A complete log of this run can be found in: /home/ubuntu/.npm/_logs/2025-06-14T11_35_46_751Z-debug-0.log
+ubuntu@ip-172-31-46-113:~$ cd ~
+rm -rf Travelmemoryallocation-Frontend
+GIT_SSH_COMMAND="ssh -i ~/ec2" git clone git@github.com:Astha0828Travelmemoryallocation/tree/main/frontend/.git
+cd Travelmemoryallocation/tree/main/frontend
+npm install
+Cloning into 'frontend'...
+fatal: remote error:
+ Astha0828Travelmemoryallocation/tree/main/frontend/ is not a valid repository name
+Visit https://support.github.com/ for help
+-bash: cd: Travelmemoryallocation/tree/main/frontend: No such file or directory
+npm error code ENOENT
+npm error syscall open
+npm error path /home/ubuntu/package.json
+npm error errno -2
+npm error enoent Could not read package.json: Error: ENOENT: no such file or directory, open '/home/ubuntu/package.json'
+npm error enoent This is related to npm not being able to find a file.
+npm error enoent
+npm error A complete log of this run can be found in: /home/ubuntu/.npm/_logs/2025-06-14T11_40_08_919Z-debug-0.log
+ubuntu@ip-172-31-46-113:~$ cd ~
+rm -rf Travelmemoryallocation
+GIT_SSH_COMMAND="ssh -i ~/ec2" git clone git@github.com:Astha0828/Travelmemoryallocation.git
+cd Travelmemoryallocation/frontend
+npm install
+Cloning into 'Travelmemoryallocation'...
+remote: Enumerating objects: 119, done.
+remote: Counting objects: 100% (119/119), done.
+remote: Compressing objects: 100% (70/70), done.
+remote: Total 119 (delta 40), reused 119 (delta 40), pack-reused 0 (from 0)
+Receiving objects: 100% (119/119), 198.68 KiB | 399.00 KiB/s, done.
+Resolving deltas: 100% (40/40), done.
+npm warn deprecated w3c-hr-time@1.0.2: Use your platform's native performance.now() and performance.timeOrigin.
+npm warn deprecated stable@0.1.8: Modern JS already guarantees Array#sort() is a stable sort, so this library is deprecated. See the compatibility table on MDN: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/sort#browser_compatibility
+npm warn deprecated rollup-plugin-terser@7.0.2: This package has been deprecated and is no longer maintained. Please use @rollup/plugin-terser
+npm warn deprecated sourcemap-codec@1.4.8: Please use @jridgewell/sourcemap-codec instead
+npm warn deprecated workbox-cacheable-response@6.6.0: workbox-background-sync@6.6.0
+npm warn deprecated svgo@1.3.2: This SVGO version is no longer supported. Upgrade to v2.x.x.
+
+added 1504 packages, and audited 1505 packages in 39s
+
+236 packages are looking for funding
+  run `npm fund` for details
+
+36 vulnerabilities (4 low, 14 moderate, 17 high, 1 critical)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ nano package.json
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ npm run build
+npm error code EJSONPARSE
+npm error JSON.parse Invalid package.json: JSONParseError: Unexpected end of JSON input while parsing near "...ri version\"\n    ]\n }\n"
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: /home/ubuntu/.npm/_logs/2025-06-14T11_47_05_347Z-debug-0.log
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ nano package.json
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ npm install
+npm run build
+npm error code EJSONPARSE
+npm error path /home/ubuntu/Travelmemoryallocation/frontend/package.json
+npm error JSON.parse Unexpected string in JSON at position 612 while parsing near "...13.208.215.71:5000\"\n\"eslintConfig\": {\n  ..."
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: /home/ubuntu/.npm/_logs/2025-06-14T11_51_21_994Z-debug-0.log
+npm error code EJSONPARSE
+npm error JSON.parse Invalid package.json: JSONParseError: Unexpected string in JSON at position 612 while parsing near "...13.208.215.71:5000\"\n\"eslintConfig\": {\n  ..."
+npm error JSON.parse Failed to parse JSON data.
+npm error JSON.parse Note: package.json must be actual JSON, not just JavaScript.
+npm error A complete log of this run can be found in: /home/ubuntu/.npm/_logs/2025-06-14T11_51_23_338Z-debug-0.log
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ nano package.json
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ npm install
+npm run build
+
+removed 79 packages, and audited 1426 packages in 8s
+
+226 packages are looking for funding
+  run `npm fund` for details
+
+34 vulnerabilities (4 low, 13 moderate, 16 high, 1 critical)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+
+> frontend@0.1.0 build
+> react-scripts build
+
+Creating an optimized production build...
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+Failed to compile.
+
+Module not found: Error: Can't resolve 'react-router-dom' in '/home/ubuntu/Travelmemoryallocation/frontend/src'
+
+
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ ssh -i /path/to/your/ec2.pem ubuntu@13.208.215.71
+Warning: Identity file /path/to/your/ec2.pem not accessible: No such file or directory.
+ubuntu@13.208.215.71: Permission denied (publickey).
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ cd ~/Travelmemoryallocation/frontend
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ npm install react-router-dom
+
+added 3 packages, and audited 1429 packages in 10s
+
+226 packages are looking for funding
+  run `npm fund` for details
+
+34 vulnerabilities (4 low, 13 moderate, 16 high, 1 critical)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ npm run build
+
+> frontend@0.1.0 build
+> react-scripts build
+
+Creating an optimized production build...
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+One of your dependencies, babel-preset-react-app, is importing the
+"@babel/plugin-proposal-private-property-in-object" package without
+declaring it in its dependencies. This is currently working because
+"@babel/plugin-proposal-private-property-in-object" is already in your
+node_modules folder for unrelated reasons, but it may break at any time.
+
+babel-preset-react-app is part of the create-react-app project, which
+is not maintianed anymore. It is thus unlikely that this bug will
+ever be fixed. Add "@babel/plugin-proposal-private-property-in-object" to
+your devDependencies to work around this error. This will make this message
+go away.
+
+Failed to compile.
+
+Module not found: Error: Can't resolve 'axios' in '/home/ubuntu/Travelmemoryallocation/frontend/src/components/pages'
+
+
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ npm install axios
+
+added 11 packages, changed 7 packages, and audited 1440 packages in 10s
+
+227 packages are looking for funding
+  run `npm fund` for details
+
+33 vulnerabilities (4 low, 12 moderate, 16 high, 1 critical)
+
+To address issues that do not require attention, run:
+  npm audit fix
+
+To address all issues (including breaking changes), run:
+  npm audit fix --force
+
+Run `npm audit` for details.
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ npm run build
+
+> frontend@0.1.0 build
+> react-scripts build
+
+Creating an optimized production build...
+Browserslist: caniuse-lite is outdated. Please run:
+  npx update-browserslist-db@latest
+  Why you should do it regularly: https://github.com/browserslist/update-db#readme
+One of your dependencies, babel-preset-react-app, is importing the
+"@babel/plugin-proposal-private-property-in-object" package without
+declaring it in its dependencies. This is currently working because
+"@babel/plugin-proposal-private-property-in-object" is already in your
+node_modules folder for unrelated reasons, but it may break at any time.
+
+babel-preset-react-app is part of the create-react-app project, which
+is not maintianed anymore. It is thus unlikely that this bug will
+ever be fixed. Add "@babel/plugin-proposal-private-property-in-object" to
+your devDependencies to work around this error. This will make this message
+go away.
+
+Compiled with warnings.
+
+[eslint]
+src/App.js
+  Line 1:8:  'logo' is defined but never used  no-unused-vars
+
+src/components/pages/AddExperience.js
+  Line 27:15:  Expected '===' and instead saw '=='  eqeqeq
+
+Search for the keywords to learn more about each warning.
+To ignore, add // eslint-disable-next-line to the line before.
+
+File sizes after gzip:
+
+  89.97 kB  build/static/js/main.0cbf4e29.js
+  1.77 kB   build/static/js/787.cda612ba.chunk.js
+  538 B     build/static/css/main.073c9b0a.css
+
+The project was built assuming it is hosted at /.
+You can control this with the homepage field in your package.json.
+
+The build folder is ready to be deployed.
+You may serve it with a static server:
+
+  npm install -g serve
+  serve -s build
+
+Find out more about deployment here:
+
+  https://cra.link/deployment
+
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ sudo npm install -g serve
+sudo: npm: command not found
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ sudo npm install -g serve
+sudo: npm: command not found
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$
+-bash: ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$: No such file or directory
+Command 'sudo:' not found, did you mean:
+  command 'sudo' from deb sudo (1.9.9-1ubuntu2.4)
+  command 'sudo' from deb sudo-ldap (1.9.9-1ubuntu2.4)
+Try: sudo apt install <deb name>
+-bash: ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$: No such file or directory
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ sudo npm install -g serve
+sudo: npm: command not found
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+sudo apt-get install -y nodejs
+2025-06-14 12:02:23 - Installing pre-requisites
+Hit:1 http://ap-northeast-3.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Get:2 http://ap-northeast-3.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease [128 kB]
+Get:3 http://ap-northeast-3.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease [127 kB]
+Get:4 http://security.ubuntu.com/ubuntu jammy-security InRelease [129 kB]
+Fetched 384 kB in 1s (369 kB/s)
+Reading package lists... Done
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+ca-certificates is already the newest version (20240203~22.04.1).
+ca-certificates set to manually installed.
+curl is already the newest version (7.81.0-1ubuntu1.20).
+curl set to manually installed.
+gnupg is already the newest version (2.2.27-3ubuntu2.3).
+gnupg set to manually installed.
+The following packages were automatically installed and are no longer required:
+  adwaita-icon-theme at-spi2-core dconf-gsettings-backend dconf-service fontconfig gsettings-desktop-schemas gtk-update-icon-cache gyp hicolor-icon-theme
+  humanity-icon-theme javascript-common libatk-bridge2.0-0 libatk1.0-0 libatk1.0-data libatspi2.0-0 libauthen-sasl-perl libavahi-client3 libavahi-common-data
+  libavahi-common3 libc-ares2 libcairo-gobject2 libcairo2 libclone-perl libcolord2 libcups2 libdata-dump-perl libdatrie1 libdconf1 libdrm-amdgpu1 libdrm-intel1
+  libdrm-nouveau2 libdrm-radeon1 libencode-locale-perl libepoxy0 libfile-basedir-perl libfile-desktopentry-perl libfile-listing-perl libfile-mimeinfo-perl
+  libfont-afm-perl libfontenc1 libgl1 libgl1-amber-dri libgl1-mesa-dri libglapi-mesa libglvnd0 libglx-mesa0 libglx0 libgraphite2-3 libgtk-3-0 libgtk-3-bin libgtk-3-common
+  libgtkd-3-0 libharfbuzz0b libhtml-form-perl libhtml-format-perl libhtml-parser-perl libhtml-tagset-perl libhtml-tree-perl libhttp-cookies-perl libhttp-daemon-perl
+  libhttp-date-perl libhttp-message-perl libhttp-negotiate-perl libice6 libio-html-perl libio-socket-ssl-perl libio-stringy-perl libipc-system-simple-perl libjs-events
+  libjs-highlight.js libjs-inherits libjs-is-typedarray libjs-psl libjs-source-map libjs-sprintf-js libjs-typedarray-to-buffer liblcms2-2 libllvm11 libllvm15
+  liblwp-mediatypes-perl liblwp-protocol-https-perl libmailtools-perl libnet-dbus-perl libnet-http-perl libnet-smtp-ssl-perl libnet-ssleay-perl libnode-dev libnode72
+  libpango-1.0-0 libpangocairo-1.0-0 libpangoft2-1.0-0 libpciaccess0 libphobos2-ldc-shared98 libpixman-1-0 librsvg2-2 librsvg2-common libsensors-config libsensors5 libsm6
+  libssl-dev libthai-data libthai0 libtie-ixhash-perl libtimedate-perl libtry-tiny-perl liburi-perl libuv1-dev libvte-2.91-0 libvte-2.91-common libvted-3-0
+  libwayland-client0 libwayland-cursor0 libwayland-egl1 libwww-perl libwww-robotrules-perl libx11-protocol-perl libx11-xcb1 libxaw7 libxcb-dri2-0 libxcb-dri3-0
+  libxcb-glx0 libxcb-present0 libxcb-randr0 libxcb-render0 libxcb-shape0 libxcb-shm0 libxcb-sync1 libxcb-xfixes0 libxcomposite1 libxcursor1 libxdamage1 libxfixes3 libxft2
+  libxi6 libxinerama1 libxkbcommon0 libxkbfile1 libxml-parser-perl libxml-twig-perl libxml-xpathengine-perl libxmu6 libxrandr2 libxrender1 libxshmfence1 libxt6 libxtst6
+  libxv1 libxxf86dga1 libxxf86vm1 node-abbrev node-ansi-regex node-ansi-styles node-ansistyles node-are-we-there-yet node-arrify node-asap node-asynckit
+  node-balanced-match node-brace-expansion node-chownr node-clean-yaml-object node-color-convert node-color-name node-commander node-core-util-is node-decompress-response
+  node-delayed-stream node-delegates node-depd node-diff node-encoding node-end-of-stream node-err-code node-escape-string-regexp node-fancy-log node-foreground-child
+  node-fs.realpath node-function-bind node-get-stream node-glob node-growl node-has-flag node-has-unicode node-hosted-git-info node-iconv-lite node-iferr node-imurmurhash
+  node-indent-string node-inflight node-inherits node-ini node-ip node-ip-regex node-is-buffer node-is-plain-obj node-is-typedarray node-isarray node-isexe
+  node-json-parse-better-errors node-jsonparse node-kind-of node-lodash-packages node-lowercase-keys node-lru-cache node-mimic-response node-minimatch node-minimist
+  node-minipass node-mute-stream node-negotiator node-npm-bundled node-once node-osenv node-p-cancelable node-p-map node-path-is-absolute node-process-nextick-args
+  node-promise-inflight node-promise-retry node-promzard node-pump node-quick-lru node-read node-readable-stream node-resolve node-retry node-safe-buffer
+  node-set-blocking node-signal-exit node-slash node-slice-ansi node-source-map node-spdx-correct node-spdx-exceptions node-spdx-expression-parse node-spdx-license-ids
+  node-sprintf-js node-stealthy-require node-string-decoder node-supports-color node-text-table node-time-stamp node-tmatch node-typedarray-to-buffer node-universalify
+  node-util-deprecate node-validate-npm-package-license node-webidl-conversions node-whatwg-fetch node-wrappy node-yallist nodejs-doc perl-openssl-defaults
+  session-migration tilix tilix-common ubuntu-mono x11-common x11-utils x11-xserver-utils xdg-utils
+Use 'sudo apt autoremove' to remove them.
+The following NEW packages will be installed:
+  apt-transport-https
+0 upgraded, 1 newly installed, 0 to remove and 34 not upgraded.
+Need to get 1510 B of archives.
+After this operation, 170 kB of additional disk space will be used.
+Get:1 http://ap-northeast-3.ec2.archive.ubuntu.com/ubuntu jammy-updates/universe amd64 apt-transport-https all 2.4.14 [1510 B]
+Fetched 1510 B in 0s (4583 B/s)
+Selecting previously unselected package apt-transport-https.
+(Reading database ... 92011 files and directories currently installed.)
+Preparing to unpack .../apt-transport-https_2.4.14_all.deb ...
+Unpacking apt-transport-https (2.4.14) ...
+Setting up apt-transport-https (2.4.14) ...
+Scanning processes...
+Scanning candidates...
+Scanning linux images...
+
+Running kernel seems to be up-to-date.
+
+Restarting services...
+Service restarts being deferred:
+ /etc/needrestart/restart.d/dbus.service
+ systemctl restart getty@tty1.service
+ systemctl restart networkd-dispatcher.service
+ systemctl restart systemd-logind.service
+ systemctl restart unattended-upgrades.service
+
+No containers need to be restarted.
+
+No user sessions are running outdated binaries.
+
+No VM guests are running outdated hypervisor (qemu) binaries on this host.
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ sudo npm install -g serve
+serve -s build -l 3000
+sudo: npm: command not found
+Command 'serve' not found, but can be installed with:
+sudo snap install serve
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ curl -fsSL https://deb.nodesource.com/setup_18.x | sudo -E bash -
+sudo apt install -y nodejs
+2025-06-14 12:08:21 - Installing pre-requisites
+Hit:1 http://ap-northeast-3.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-northeast-3.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:3 http://ap-northeast-3.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Get:4 http://security.ubuntu.com/ubuntu jammy-security InRelease [129 kB]
+Fetched 129 kB in 1s (123 kB/s)
+Reading package lists... Done
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+ca-certificates is already the newest version (20240203~22.04.1).
+curl is already the newest version (7.81.0-1ubuntu1.20).
+gnupg is already the newest version (2.2.27-3ubuntu2.3).
+apt-transport-https is already the newest version (2.4.14).
+The following packages were automatically installed and are no longer required:
+  adwaita-icon-theme at-spi2-core dconf-gsettings-backend dconf-service fontconfig gsettings-desktop-schemas gtk-update-icon-cache gyp hicolor-icon-theme
+  humanity-icon-theme libatk-bridge2.0-0 libatk1.0-0 libatk1.0-data libatspi2.0-0 libauthen-sasl-perl libavahi-client3 libavahi-common-data libavahi-common3
+  libcairo-gobject2 libcairo2 libclone-perl libcolord2 libcups2 libdata-dump-perl libdatrie1 libdconf1 libdrm-amdgpu1 libdrm-intel1 libdrm-nouveau2 libdrm-radeon1
+  libencode-locale-perl libepoxy0 libfile-basedir-perl libfile-desktopentry-perl libfile-listing-perl libfile-mimeinfo-perl libfont-afm-perl libfontenc1 libgl1
+  libgl1-amber-dri libgl1-mesa-dri libglapi-mesa libglvnd0 libglx-mesa0 libglx0 libgraphite2-3 libgtk-3-0 libgtk-3-bin libgtk-3-common libgtkd-3-0 libharfbuzz0b
+  libhtml-form-perl libhtml-format-perl libhtml-parser-perl libhtml-tagset-perl libhtml-tree-perl libhttp-cookies-perl libhttp-daemon-perl libhttp-date-perl
+  libhttp-message-perl libhttp-negotiate-perl libice6 libio-html-perl libio-socket-ssl-perl libio-stringy-perl libipc-system-simple-perl libjs-events libjs-inherits
+  libjs-is-typedarray libjs-psl libjs-source-map libjs-sprintf-js libjs-typedarray-to-buffer liblcms2-2 libllvm11 libllvm15 liblwp-mediatypes-perl
+  liblwp-protocol-https-perl libmailtools-perl libnet-dbus-perl libnet-http-perl libnet-smtp-ssl-perl libnet-ssleay-perl libnode-dev libpango-1.0-0 libpangocairo-1.0-0
+  libpangoft2-1.0-0 libpciaccess0 libphobos2-ldc-shared98 libpixman-1-0 librsvg2-2 librsvg2-common libsensors-config libsensors5 libsm6 libssl-dev libthai-data libthai0
+  libtie-ixhash-perl libtimedate-perl libtry-tiny-perl liburi-perl libuv1-dev libvte-2.91-0 libvte-2.91-common libvted-3-0 libwayland-client0 libwayland-cursor0
+  libwayland-egl1 libwww-perl libwww-robotrules-perl libx11-protocol-perl libx11-xcb1 libxaw7 libxcb-dri2-0 libxcb-dri3-0 libxcb-glx0 libxcb-present0 libxcb-randr0
+  libxcb-render0 libxcb-shape0 libxcb-shm0 libxcb-sync1 libxcb-xfixes0 libxcomposite1 libxcursor1 libxdamage1 libxfixes3 libxft2 libxi6 libxinerama1 libxkbcommon0
+  libxkbfile1 libxml-parser-perl libxml-twig-perl libxml-xpathengine-perl libxmu6 libxrandr2 libxrender1 libxshmfence1 libxt6 libxtst6 libxv1 libxxf86dga1 libxxf86vm1
+  node-abbrev node-ansi-regex node-ansi-styles node-ansistyles node-are-we-there-yet node-arrify node-asap node-asynckit node-balanced-match node-brace-expansion
+  node-chownr node-clean-yaml-object node-color-convert node-color-name node-commander node-core-util-is node-decompress-response node-delayed-stream node-delegates
+  node-depd node-diff node-encoding node-end-of-stream node-err-code node-escape-string-regexp node-fancy-log node-foreground-child node-fs.realpath node-function-bind
+  node-get-stream node-glob node-growl node-has-flag node-has-unicode node-hosted-git-info node-iconv-lite node-iferr node-imurmurhash node-indent-string node-inflight
+  node-inherits node-ini node-ip node-ip-regex node-is-buffer node-is-plain-obj node-is-typedarray node-isarray node-isexe node-json-parse-better-errors node-jsonparse
+  node-kind-of node-lodash-packages node-lowercase-keys node-lru-cache node-mimic-response node-minimatch node-minimist node-minipass node-mute-stream node-negotiator
+  node-npm-bundled node-once node-osenv node-p-cancelable node-p-map node-path-is-absolute node-process-nextick-args node-promise-inflight node-promise-retry
+  node-promzard node-pump node-quick-lru node-read node-readable-stream node-resolve node-retry node-safe-buffer node-set-blocking node-signal-exit node-slash
+  node-slice-ansi node-source-map node-spdx-correct node-spdx-exceptions node-spdx-expression-parse node-spdx-license-ids node-sprintf-js node-stealthy-require
+  node-string-decoder node-supports-color node-text-table node-time-stamp node-tmatch node-typedarray-to-buffer node-universalify node-util-deprecate
+  node-validate-npm-package-license node-webidl-conversions node-whatwg-fetch node-wrappy node-yallist perl-openssl-defaults session-migration tilix tilix-common
+  ubuntu-mono x11-common x11-utils x11-xserver-utils xdg-utils
+Use 'sudo apt autoremove' to remove them.
+0 upgraded, 0 newly installed, 0 to remove and 34 not upgraded.
+Hit:1 http://ap-northeast-3.ec2.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:2 http://ap-northeast-3.ec2.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:3 http://ap-northeast-3.ec2.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Get:4 https://deb.nodesource.com/node_18.x nodistro InRelease [12.1 kB]
+Hit:5 http://security.ubuntu.com/ubuntu jammy-security InRelease
+Get:6 https://deb.nodesource.com/node_18.x nodistro/main amd64 Packages [11.6 kB]
+Fetched 23.7 kB in 1s (31.2 kB/s)
+Reading package lists... Done
+2025-06-14 12:08:27 - Repository configured successfully.
+2025-06-14 12:08:27 - To install Node.js, run: apt-get install nodejs -y
+2025-06-14 12:08:27 - You can use N|solid Runtime as a node.js alternative
+2025-06-14 12:08:27 - To install N|solid Runtime, run: apt-get install nsolid -y
+
+Reading package lists... Done
+Building dependency tree... Done
+Reading state information... Done
+The following packages were automatically installed and are no longer required:
+  adwaita-icon-theme at-spi2-core dconf-gsettings-backend dconf-service fontconfig gsettings-desktop-schemas gtk-update-icon-cache gyp hicolor-icon-theme
+  humanity-icon-theme javascript-common libatk-bridge2.0-0 libatk1.0-0 libatk1.0-data libatspi2.0-0 libauthen-sasl-perl libavahi-client3 libavahi-common-data
+  libavahi-common3 libc-ares2 libcairo-gobject2 libcairo2 libclone-perl libcolord2 libcups2 libdata-dump-perl libdatrie1 libdconf1 libdrm-amdgpu1 libdrm-intel1
+  libdrm-nouveau2 libdrm-radeon1 libencode-locale-perl libepoxy0 libfile-basedir-perl libfile-desktopentry-perl libfile-listing-perl libfile-mimeinfo-perl
+  libfont-afm-perl libfontenc1 libgl1 libgl1-amber-dri libgl1-mesa-dri libglapi-mesa libglvnd0 libglx-mesa0 libglx0 libgraphite2-3 libgtk-3-0 libgtk-3-bin libgtk-3-common
+  libgtkd-3-0 libharfbuzz0b libhtml-form-perl libhtml-format-perl libhtml-parser-perl libhtml-tagset-perl libhtml-tree-perl libhttp-cookies-perl libhttp-daemon-perl
+  libhttp-date-perl libhttp-message-perl libhttp-negotiate-perl libice6 libio-html-perl libio-socket-ssl-perl libio-stringy-perl libipc-system-simple-perl libjs-events
+  libjs-highlight.js libjs-inherits libjs-is-typedarray libjs-psl libjs-source-map libjs-sprintf-js libjs-typedarray-to-buffer liblcms2-2 libllvm11 libllvm15
+  liblwp-mediatypes-perl liblwp-protocol-https-perl libmailtools-perl libnet-dbus-perl libnet-http-perl libnet-smtp-ssl-perl libnet-ssleay-perl libnode-dev libnode72
+  libpango-1.0-0 libpangocairo-1.0-0 libpangoft2-1.0-0 libpciaccess0 libphobos2-ldc-shared98 libpixman-1-0 librsvg2-2 librsvg2-common libsensors-config libsensors5 libsm6
+  libssl-dev libthai-data libthai0 libtie-ixhash-perl libtimedate-perl libtry-tiny-perl liburi-perl libuv1-dev libvte-2.91-0 libvte-2.91-common libvted-3-0
+  libwayland-client0 libwayland-cursor0 libwayland-egl1 libwww-perl libwww-robotrules-perl libx11-protocol-perl libx11-xcb1 libxaw7 libxcb-dri2-0 libxcb-dri3-0
+  libxcb-glx0 libxcb-present0 libxcb-randr0 libxcb-render0 libxcb-shape0 libxcb-shm0 libxcb-sync1 libxcb-xfixes0 libxcomposite1 libxcursor1 libxdamage1 libxfixes3 libxft2
+  libxi6 libxinerama1 libxkbcommon0 libxkbfile1 libxml-parser-perl libxml-twig-perl libxml-xpathengine-perl libxmu6 libxrandr2 libxrender1 libxshmfence1 libxt6 libxtst6
+  libxv1 libxxf86dga1 libxxf86vm1 node-abbrev node-ansi-regex node-ansi-styles node-ansistyles node-are-we-there-yet node-arrify node-asap node-asynckit
+  node-balanced-match node-brace-expansion node-chownr node-clean-yaml-object node-color-convert node-color-name node-commander node-core-util-is node-decompress-response
+  node-delayed-stream node-delegates node-depd node-diff node-encoding node-end-of-stream node-err-code node-escape-string-regexp node-fancy-log node-foreground-child
+  node-fs.realpath node-function-bind node-get-stream node-glob node-growl node-has-flag node-has-unicode node-hosted-git-info node-iconv-lite node-iferr node-imurmurhash
+  node-indent-string node-inflight node-inherits node-ini node-ip node-ip-regex node-is-buffer node-is-plain-obj node-is-typedarray node-isarray node-isexe
+  node-json-parse-better-errors node-jsonparse node-kind-of node-lodash-packages node-lowercase-keys node-lru-cache node-mimic-response node-minimatch node-minimist
+  node-minipass node-mute-stream node-negotiator node-npm-bundled node-once node-osenv node-p-cancelable node-p-map node-path-is-absolute node-process-nextick-args
+  node-promise-inflight node-promise-retry node-promzard node-pump node-quick-lru node-read node-readable-stream node-resolve node-retry node-safe-buffer
+  node-set-blocking node-signal-exit node-slash node-slice-ansi node-source-map node-spdx-correct node-spdx-exceptions node-spdx-expression-parse node-spdx-license-ids
+  node-sprintf-js node-stealthy-require node-string-decoder node-supports-color node-text-table node-time-stamp node-tmatch node-typedarray-to-buffer node-universalify
+  node-util-deprecate node-validate-npm-package-license node-webidl-conversions node-whatwg-fetch node-wrappy node-yallist perl-openssl-defaults session-migration tilix
+  tilix-common ubuntu-mono x11-common x11-utils x11-xserver-utils xdg-utils
+Use 'sudo apt autoremove' to remove them.
+The following packages will be REMOVED:
+  nodejs-doc
+The following packages will be upgraded:
+  nodejs
+1 upgraded, 0 newly installed, 1 to remove and 34 not upgraded.
+Need to get 29.7 MB of archives.
+After this operation, 177 MB of additional disk space will be used.
+Get:1 https://deb.nodesource.com/node_18.x nodistro/main amd64 nodejs amd64 18.20.8-1nodesource1 [29.7 MB]
+Fetched 29.7 MB in 0s (62.1 MB/s)
+(Reading database ... 92072 files and directories currently installed.)
+Removing nodejs-doc (12.22.9~dfsg-1ubuntu3.6) ...
+(Reading database ... 91894 files and directories currently installed.)
+Preparing to unpack .../nodejs_18.20.8-1nodesource1_amd64.deb ...
+Unpacking nodejs (18.20.8-1nodesource1) over (12.22.9~dfsg-1ubuntu3.6) ...
+dpkg: error processing archive /var/cache/apt/archives/nodejs_18.20.8-1nodesource1_amd64.deb (--unpack):
+ trying to overwrite '/usr/include/node/common.gypi', which is also in package libnode-dev 12.22.9~dfsg-1ubuntu3.6
+dpkg-deb: error: paste subprocess was killed by signal (Broken pipe)
+Errors were encountered while processing:
+ /var/cache/apt/archives/nodejs_18.20.8-1nodesource1_amd64.deb
+needrestart is being skipped since dpkg has failed
+E: Sub-process /usr/bin/dpkg returned an error code (1)
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ node -v
+npm -v
+v18.20.8
+10.8.2
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ sudo npm install -g serve
+sudo: npm: command not found
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ which npm
+/home/ubuntu/.nvm/versions/node/v18.20.8/bin/npm
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ which node
+/home/ubuntu/.nvm/versions/node/v18.20.8/bin/node
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ sudo ln -s $(which node) /usr/bin/node
+sudo ln -s $(which npm) /usr/bin/npm
+ln: failed to create symbolic link '/usr/bin/node': File exists
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ sudo npm install -g serve
+internal/modules/cjs/loader.js:818
+  throw err;
+  ^
+
+Error: Cannot find module 'node:path'
+Require stack:
+- /home/ubuntu/.nvm/versions/node/v18.20.8/lib/node_modules/npm/lib/cli.js
+- /home/ubuntu/.nvm/versions/node/v18.20.8/lib/node_modules/npm/bin/npm-cli.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:85:18)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v18.20.8/lib/node_modules/npm/lib/cli.js:2:18)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19) {
+  code: 'MODULE_NOT_FOUND',
+  requireStack: [
+    '/home/ubuntu/.nvm/versions/node/v18.20.8/lib/node_modules/npm/lib/cli.js',
+    '/home/ubuntu/.nvm/versions/node/v18.20.8/lib/node_modules/npm/bin/npm-cli.js'
+  ]
+}
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ nvm uninstall 18.20.8
+nvm: Cannot uninstall currently-active node version, v18.20.8 (inferred from 18.20.8).
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ nvm install 18
+nvm use 18
+v18.20.8 is already installed.
+Now using node v18.20.8 (npm v10.8.2)
+Now using node v18.20.8 (npm v10.8.2)
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ node -v
+npm -v
+v18.20.8
+10.8.2
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ sudo ln -sf $(which node) /usr/bin/node
+sudo ln -sf $(which npm) /usr/bin/npm
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ sudo npm install -g serve
+
+added 88 packages in 8s
+
+24 packages are looking for funding
+  run `npm fund` for details
+npm notice
+npm notice New major version of npm available! 10.8.2 -> 11.4.2
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v11.4.2
+npm notice To update run: npm install -g npm@11.4.2
+npm notice
+ubuntu@ip-172-31-46-113:~/Travelmemoryallocation/frontend$ serve -s build -l 3000
+ ERROR  Cannot copy server address to clipboard: Couldn't find the `xsel` binary and fallback didn't work. On Debian/Ubuntu you can install xsel with: sudo apt install xsel.
+
+   ┌───────────────────────────────────────────┐
+   │                                           │
+   │   Serving!                                │
+   │                                           │
+   │   - Local:    http://localhost:3000       │
+   │   - Network:  http://172.31.46.113:3000   │
+   │                                           │
+   └───────────────────────────────────────────┘
+
+http://<your-ec2-public-ip>:3000
+
+Read from remote host 13.208.215.71: Connection reset by peer
+Connection to 13.208.215.71 closed.
+client_loop: send disconnect: Connection reset by peer
+
+91637@LAPTOP-DU47RA4C MINGW64 ~/Downloads
+$ http://13.208.215.71:3000
+bash: http://13.208.215.71:3000: No such file or directory
+
+91637@LAPTOP-DU47RA4C MINGW64 ~/Downloads
+$ ssh -i /path/to/ec2.pem ubuntu@13.208.215.71
+Warning: Identity file /path/to/ec2.pem not accessible: No such file or directory.
+ubuntu@13.208.215.71: Permission denied (publickey).
+
+91637@LAPTOP-DU47RA4C MINGW64 ~/Downloads
+$ ssh -i /c/Users/91637/Downloads/ec2.pem ubuntu@13.208.215.71
+Welcome to Ubuntu 22.04.5 LTS (GNU/Linux 6.8.0-1029-aws x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/pro
+
+ System information as of Sat Jun 14 12:35:42 UTC 2025
+
+  System load:  0.0               Processes:             101
+  Usage of /:   46.1% of 7.57GB   Users logged in:       0
+  Memory usage: 32%               IPv4 address for eth0: 172.31.46.113
+  Swap usage:   0%
+
+ * Ubuntu Pro delivers the most comprehensive open source security and
+   compliance features.
+
+   https://ubuntu.com/aws/pro
+
+Expanded Security Maintenance for Applications is not enabled.
+
+35 updates can be applied immediately.
+25 of these updates are standard security updates.
+To see these additional updates run: apt list --upgradable
+
+4 additional security updates can be applied with ESM Apps.
+Learn more about enabling ESM Apps service at https://ubuntu.com/esm
+
+New release '24.04.2 LTS' available.
+Run 'do-release-upgrade' to upgrade to it.
+
+
+*** System restart required ***
+Last login: Sat Jun 14 10:51:52 2025 from 157.41.240.235
+ubuntu@ip-172-31-46-113:~$ ssh -i /c/Users/91637/Downloads/ec2.pem ubuntu@13.208.215.71
+Warning: Identity file /c/Users/91637/Downloads/ec2.pem not accessible: No such file or directory.
+ubuntu@13.208.215.71: Permission denied (publickey).
+ubuntu@ip-172-31-46-113:~$ ps aux | grep serve
+ubuntu     11227  0.0  0.2   7008  2304 pts/0    S+   12:38   0:00 grep --color=auto serve
+ubuntu@ip-172-31-46-113:~$ cd ~/Travelmemoryallocation/frontend
+serve -s build -l 3000
+ ERROR  Cannot copy server address to clipboard: Couldn't find the `xsel` binary and fallback didn't work. On Debian/Ubuntu you can install xsel with: sudo apt install xsel.
+
+   ┌───────────────────────────────────────────┐
+   │                                           │
+   │   Serving!                                │
+   │                                           │
+   │   - Local:    http://localhost:3000       │
+   │   - Network:  http://172.31.46.113:3000   │
+   │                                           │
+   └───────────────────────────────────────────┘
+
+pm2 start "serve -s build -l 3000" --name frontend
+
+ HTTP  6/14/2025 12:39:43 PM 157.41.240.235 GET /
+ HTTP  6/14/2025 12:39:43 PM 157.41.240.235 Returned 200 in 107 ms
+ HTTP  6/14/2025 12:39:43 PM 157.41.240.235 GET /static/css/main.073c9b0a.css
+ HTTP  6/14/2025 12:39:43 PM 157.41.240.235 Returned 200 in 3 ms
+ HTTP  6/14/2025 12:39:44 PM 157.41.240.235 GET /static/js/main.0cbf4e29.js
+ HTTP  6/14/2025 12:39:44 PM 157.41.240.235 Returned 200 in 7 ms
+ HTTP  6/14/2025 12:39:45 PM 157.41.240.235 GET /favicon.ico
+ HTTP  6/14/2025 12:39:45 PM 157.41.240.235 Returned 200 in 3 ms
+Read from remote host 13.208.215.71: Connection reset by peer
+Connection to 13.208.215.71 closed.
+client_loop: send disconnect: Connection reset by peer
+
+91637@LAPTOP-DU47RA4C MINGW64 ~/Downloads
+$ npm install -g serve
+serve -s build -l 3000
+# Or use PM2
+pm2 start "serve -s build -l 3000" --name frontend
+bash: npm: command not found
+bash: serve: command not found
+bash: pm2: command not found
+
+91637@LAPTOP-DU47RA4C MINGW64 ~/Downloads
+$ ssh -i /c/Users/91637/Downloads/ec2.pem ubuntu@13.208.215.71
+Welcome to Ubuntu 22.04.5 LTS (GNU/Linux 6.8.0-1029-aws x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/pro
+
+ System information as of Sat Jun 14 12:51:03 UTC 2025
+
+  System load:  0.0               Processes:             101
+  Usage of /:   46.1% of 7.57GB   Users logged in:       0
+  Memory usage: 32%               IPv4 address for eth0: 172.31.46.113
+  Swap usage:   0%
+
+ * Ubuntu Pro delivers the most comprehensive open source security and
+   compliance features.
+
+   https://ubuntu.com/aws/pro
+
+Expanded Security Maintenance for Applications is not enabled.
+
+35 updates can be applied immediately.
+25 of these updates are standard security updates.
+To see these additional updates run: apt list --upgradable
+
+4 additional security updates can be applied with ESM Apps.
+Learn more about enabling ESM Apps service at https://ubuntu.com/esm
+
+New release '24.04.2 LTS' available.
+Run 'do-release-upgrade' to upgrade to it.
+
+
+*** System restart required ***
+Last login: Sat Jun 14 12:35:43 2025 from 157.41.240.235
+ubuntu@ip-172-31-46-113:~$ cd ~/Travelmemoryallocation/frontend
+serve -s build -l 3000
+ ERROR  Cannot copy server address to clipboard: Couldn't find the `xsel` binary and fallback didn't work. On Debian/Ubuntu you can install xsel with: sudo apt install xsel.
+
+   ┌───────────────────────────────────────────┐
+   │                                           │
+   │   Serving!                                │
+   │                                           │
+   │   - Local:    http://localhost:3000       │
+   │   - Network:  http://172.31.46.113:3000   │
+   │                                           │
+   └───────────────────────────────────────────┘
+
+serve -s build -l 3000
+
+ HTTP  6/14/2025 12:51:46 PM 157.41.240.235 GET /
+ HTTP  6/14/2025 12:51:46 PM 157.41.240.235 Returned 200 in 24 ms
+ HTTP  6/14/2025 12:51:47 PM 157.41.240.235 GET /static/css/main.073c9b0a.css
+ HTTP  6/14/2025 12:51:47 PM 157.41.240.235 Returned 304 in 3 ms
+ HTTP  6/14/2025 12:51:47 PM 157.41.240.235 GET /static/js/main.0cbf4e29.js
+ HTTP  6/14/2025 12:51:47 PM 157.41.240.235 Returned 304 in 2 ms
+ HTTP  6/14/2025 12:51:47 PM 157.41.240.235 GET /favicon.ico
+ HTTP  6/14/2025 12:51:47 PM 157.41.240.235 Returned 304 in 2 ms
+ HTTP  6/14/2025 12:54:10 PM 157.41.240.235 GET /
+ HTTP  6/14/2025 12:54:10 PM 157.41.240.235 Returned 304 in 1 ms
+ HTTP  6/14/2025 12:54:10 PM 157.41.240.235 GET /static/js/main.0cbf4e29.js
+ HTTP  6/14/2025 12:54:10 PM 157.41.240.235 Returned 304 in 1 ms
+ HTTP  6/14/2025 12:54:10 PM 157.41.240.235 GET /static/css/main.073c9b0a.css
+ HTTP  6/14/2025 12:54:10 PM 157.41.240.235 Returned 304 in 1 ms
+
